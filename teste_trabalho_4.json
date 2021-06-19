@@ -1,0 +1,27 @@
+{
+	"reponse_code": 1,
+	"results": [
+		{
+			"mode_cristian":1,
+			"image": "https://1.bp.blogspot.com/-WDkVrdzdeAU/XtKziVGvEaI/AAAAAAAAMWA/Ik7lxZ0v_QEUu7nWxei7up1M-cOHFuMfwCLcBGAsYHQ/s1600/1.jpg",
+			"question": "Em 'Kaguya-sama, Love is War', qual é a melhor personagem e por que a Chika?",
+			"correct_answer": "Chika Fujiwara",
+			"incorrect_answers": [
+				"Miko Iino",
+				"Kobachi Osaragi",
+				"Miyuki Shirogane"
+			]
+		}
+		{
+			"mode_cristian":1,
+			"image": "https://i.imgur.com/cwRtx6S.gif",
+			"question": "Em 'Kaguya-sama, Love is War', qual é a melhor personagem e por que a Chika?",
+			"correct_answer": "Chika Fujiwara",
+			"incorrect_answers": [
+				"Miko Iino",
+				"Kobachi Osaragi",
+				"Miyuki Shirogane"
+			]
+		}
+	]
+}
